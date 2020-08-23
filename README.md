@@ -1,5 +1,5 @@
 # Hello there, I'm Jameel Hamdan
-# A Developer from Palestine.
+## A Developer from Palestine.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingjmk" alt="kingjmk" /> </p>
 
@@ -19,8 +19,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjmk&layout=compact&hide=html" alt="kingjmk" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingjmk&show_icons=true" alt="kingjmk" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kingjmk&show_icons=true" alt="kingjmk" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingjmk&layout=compact&hide=html" alt="kingjmk" />
+</p>
